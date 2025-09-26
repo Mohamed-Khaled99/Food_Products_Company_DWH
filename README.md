@@ -51,6 +51,5 @@ Core operations include:
 
 ## 🚀 Technologies
 - **SQL** for data modeling, ETL, and querying
-- **Power BI** For Visualization
 - **Power BI** for dashboarding & business intelligence  
 - **Kimball’s methodology** for DWH design  
